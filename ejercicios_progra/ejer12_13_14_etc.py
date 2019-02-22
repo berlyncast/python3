@@ -1,4 +1,4 @@
-
+##lo siento por la hora pero mi compu volvio a fallar varias veces :c
 ##12calcular el nuebo salario de un empleado si se le descuenta el 20% de su salario actual
 ##DESCUENTO = 0.20
 ##salario = 0
